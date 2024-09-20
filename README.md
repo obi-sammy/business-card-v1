@@ -2,7 +2,7 @@
 
 Business Card is a apllication that hosts the information of professionals from all works of life, this is a digital rendition of the physical business cards that professionals use to network and connect with other professionals in their respective fields.
 
-[Link to Uni-connect]()
+[Link to Business-Card-App](https://business-card-v1.web.app/)
 
 
 ## Features
@@ -26,7 +26,7 @@ Business Card is a apllication that hosts the information of professionals from 
 4. Start the development server: `npm run dev`
 
 ## Usage
-- Visit the deployed app at [Link to Business-Card-App]()
+- Visit the deployed app at [Link to Business-Card-App](https://business-card-v1.web.app/)
 )
 - Register a new account or log in with existing credentials.
 - Update your existing credentials.
